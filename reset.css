@@ -27,4 +27,9 @@
         input.btn{width : auto;  cursos: pointer;}
 
         /* vai ser box de controle*/
-        .contrainer 
+        .contrainer {clear: both; width:100%;  backgground-color:#e9ecf0;  }
+        .clear  {clear: both; }
+        .fontzero  { font- size:0;  }
+        
+         É uma Seção de Titulo */
+        .section_title{fon-size:  1em;  text-align:  center; color: #333;  }
