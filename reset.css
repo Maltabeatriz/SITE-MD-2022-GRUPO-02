@@ -33,3 +33,8 @@
         
          É uma Seção de Titulo */
         .section_title{fon-size:  1em;  text-align:  center; color: #333;  }
+
+        @font-face{
+        font-family:open_sansbold';
+        src:  url('opensans/opensans-bold-webfont.woff2')  format('woff2'),
+        url('opensans/opensans-bold-webfont.woff2') format( 'woff');        
